@@ -42,3 +42,10 @@
 # git pull -   Команда которая используется для загрузки изменений (обновлениий) из удаленного репозитория
 
 # git pull <origin>
+
+# Создание репозитория 
+# 1.git init
+# 2.git add  .
+# 3.gti commit - m 'first commit'
+# 4.git remote add origin <url>
+# 5.gti push origin master
